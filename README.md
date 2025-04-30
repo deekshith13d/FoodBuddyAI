@@ -20,7 +20,6 @@ The goal is to bridge health awareness and machine intelligence using intuitive 
 
 - *Frontend:* HTML5, CSS3, Bootstrap
 - *Backend:* Python, Django
-- *Database:* SQLite
 - *Others:* Pandas, Numpy, Scikit-learn
 
 ---
